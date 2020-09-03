@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f12548607c498c2f5cc63a7225d2af06",
+    "revision": "9b223efaf23e4ecb68b4510a4617c4e3",
     "url": "/yoboline_interview_react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yoboline_interview_react/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "37a5469ba798c323e14f",
+    "revision": "3a8b3902070dbfa4a9c1",
     "url": "/yoboline_interview_react/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yoboline_interview_react/static/js/2.fe438db8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37a5469ba798c323e14f",
-    "url": "/yoboline_interview_react/static/js/main.2e2b085c.chunk.js"
+    "revision": "3a8b3902070dbfa4a9c1",
+    "url": "/yoboline_interview_react/static/js/main.37d330ef.chunk.js"
   },
   {
     "revision": "686ca2275904a07f0528",

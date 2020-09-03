@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yoboline_interview_react/precache-manifest.33ad6f4656887a296c156eabf359de71.js"
+  "/yoboline_interview_react/precache-manifest.20d48c9864e2efb2fffe8f02670ca509.js"
 );
 
 self.addEventListener('message', (event) => {
