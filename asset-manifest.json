@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yoboline_interview_react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/yoboline_interview_react/static/js/main.7a3cd437.chunk.js",
-    "main.js.map": "/yoboline_interview_react/static/js/main.7a3cd437.chunk.js.map",
+    "main.js": "/yoboline_interview_react/static/js/main.ca2f4afe.chunk.js",
+    "main.js.map": "/yoboline_interview_react/static/js/main.ca2f4afe.chunk.js.map",
     "runtime-main.js": "/yoboline_interview_react/static/js/runtime-main.bf345b8d.js",
     "runtime-main.js.map": "/yoboline_interview_react/static/js/runtime-main.bf345b8d.js.map",
     "static/css/2.3c03f26f.chunk.css": "/yoboline_interview_react/static/css/2.3c03f26f.chunk.css",
     "static/js/2.fe438db8.chunk.js": "/yoboline_interview_react/static/js/2.fe438db8.chunk.js",
     "static/js/2.fe438db8.chunk.js.map": "/yoboline_interview_react/static/js/2.fe438db8.chunk.js.map",
     "index.html": "/yoboline_interview_react/index.html",
-    "precache-manifest.482fab1a6e37a09fd3813a87fa315287.js": "/yoboline_interview_react/precache-manifest.482fab1a6e37a09fd3813a87fa315287.js",
+    "precache-manifest.4cae0eda10ff9fcc88026ee560634e91.js": "/yoboline_interview_react/precache-manifest.4cae0eda10ff9fcc88026ee560634e91.js",
     "service-worker.js": "/yoboline_interview_react/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/yoboline_interview_react/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/yoboline_interview_react/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.fe438db8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7a3cd437.chunk.js"
+    "static/js/main.ca2f4afe.chunk.js"
   ]
 }
